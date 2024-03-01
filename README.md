@@ -53,21 +53,15 @@ Se tudo foi configurado como devido terá a tela a seguir que indica o status de
 Selecione a tarefa para dar continuidade das configurações.Em seguida clique em avançar.
 Na tela seguinte seguir estas configurações:
 
-![image](https://github.com/AdrianoProfileAdsCloud/AI-900/assets/141897391/47fff96f-8f76-4372-b9c2-ade5863e51c7)
+![image](https://github.com/AdrianoProfileAdsCloud/AI-900/assets/141897391/a78cb05b-4152-497d-a844-7189c91c0a16)
 
+Salve esta etapa e continue as configurações ainda neste tela.
 
+![image](https://github.com/AdrianoProfileAdsCloud/AI-900/assets/141897391/160b636c-7f98-4b60-a0f7-663c2ada4234)
 
+Configuração de como será processada a níel de hardware(cloud).O processo de criação então inicia, esta etapa pode demorar um pouco.
 
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/AdrianoProfileAdsCloud/AI-900/assets/141897391/f60099d5-328b-42c4-b7e0-1c6ee10f443a)
 
 Em  clicando em <b>Tarefas(Jobs)</b> localizado a esquerda em segida localizamos o nome do experimento e selecionamos.
 
