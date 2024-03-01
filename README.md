@@ -1,9 +1,9 @@
 # Microsoft Azure AI Fundamentals
 Trabalhando com Machine Learning na Prática no Azure ML
 
-Projeto proposto pela Dio para um aprendizado mais prático saindo um pouco da teória, mas ao mesmo tempo levando a mesma em todas as etapas.Ja que para realizar o projeto é necessário navegar no Portal Azure; explorando outras possibilidades e recuros do portal.
-Ampliando os conhecimentos adquiridos nas aulas; vendo e fazendo na pratica os recursos do Portal Azure para IA melhorando a fixação dos contúdos ministrados no bootcamp.
-O projeto em si é simples, mas através dele foi possível navegar pelo Portal Azure e conhecer o Azure Machine Learning Studio.
+Projeto proposto pela Dio para um aprendizado mais prático, saindo um pouco da teoria, mas, ao mesmo tempo, levando a mesma em todas as etapas. Já que para realizar o projeto é necessário navegar no Portal Azure; explorando outras possibilidades e recursos do portal. Ampliando os conhecimentos adquiridos nas aulas; vendo e fazendo na prática os recursos do Portal Azure para IA, melhorando a fixação dos conteúdos ministrados no bootcamp. O projeto em si é simples, mas através dele foi possível navegar pelo Portal Azure e conhecer o Azure Machine Learning Studio.
+
+Este projeto foi realizado com base nas aulas ministradas e na documentação da Microsoft.
 
   Este projeto foi realizado com base nas aulas ministradas e a documentaçãodo Microsoft Learn(https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html)
 
