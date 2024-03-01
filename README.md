@@ -8,6 +8,7 @@ O projeto em si é simples, mas através dele foi possível navegar pelo Portal 
   Este projeto foi realizado com base nas aulas ministradas e a documentaçãodo Microsoft Learn(https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html)
 
 Primeiro passo criar um Workspace no Azure Machine Learning Studio.
+
 ![image](https://github.com/AdrianoProfileAdsCloud/AI-900/assets/141897391/adc3e27b-4f5e-46fa-8c60-e8fe4b192aba)
 
 Com o Workspace criado, clicando no mesmo temos todos os recursos exixtentes do workspace a esquerda.
@@ -26,7 +27,7 @@ Clique no botão avançar para seguir com as configurações.De acordo com o exe
 
 ![image](https://github.com/AdrianoProfileAdsCloud/AI-900/assets/141897391/426b332f-b1bf-4476-848f-6af6b6ceb47f)
 
-Escolher fonte de dados como  <b>Arquivos da Web</br>.
+Escolher fonte de dados como  <b>De Arquivos da Web</br>.
 
 ![image](https://github.com/AdrianoProfileAdsCloud/AI-900/assets/141897391/4a3e9de6-ea81-4b23-9dad-ac3f343f75c5)
 
@@ -102,6 +103,16 @@ Ao selecionar <b>Ponto de extremidade</b> no menu lateral a esquerda. Será exib
 Clicando no ponto de extremidade selecionado,somos levados a outra tela com algumas abas informativas como Logs etc.É nesta tela que será possível testar, clicando na aba <b>Testar</b>
 
 ![image](https://github.com/AdrianoProfileAdsCloud/AI-900/assets/141897391/802ede5f-342b-4b93-92cb-b961e92b1716)
+
+![image](https://github.com/AdrianoProfileAdsCloud/AI-900/assets/141897391/b383684c-49a6-4414-bc5e-28efc5b1c408)
+
+Para validar clicar na guia <b>Testar</b> e alterar os valores de acordo com a necssidade:
+![image](https://github.com/AdrianoProfileAdsCloud/AI-900/assets/141897391/ddde7ca1-2f16-4aff-a379-62ce4bac8ffe)
+
+
+
+
+
 
 
 
